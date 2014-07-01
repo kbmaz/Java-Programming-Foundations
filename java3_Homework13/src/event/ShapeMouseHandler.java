@@ -22,7 +22,7 @@ public class ShapeMouseHandler extends MouseAdapter {
   
   private Shape shape;
   
-  darkShade = 
+  //darkShade = 
   
   public ShapeMouseHandler(Model model) {
      //persist local variable model to this.model.
